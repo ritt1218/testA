@@ -1,0 +1,3 @@
+[submodule "testB"]
+	path = testB
+	url = https://github.com/ritt1218/testB.git
